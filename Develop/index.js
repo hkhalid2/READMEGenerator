@@ -31,6 +31,20 @@ const questions  = () => {
       },
 
       {
+        type: 'list',
+        name: 'license',
+        message: 'Pick a license',
+        choices: [
+         'MIT License',
+         'Apache License 2.0',
+         'The Unlicense',
+         'Mozilla Public License 2.0',
+         'Boost Software License 1.0'
+        ],
+        initial: 1
+      },
+
+      {
         type: "input",
         name: "contribution",
         message: "What are the Project's contribution guidelines?",
@@ -45,7 +59,7 @@ const questions  = () => {
       {
         type: "input",
         name: "github",
-        message: "What is the your Github profile username ?",
+        message: "What is the your Github profile username?",
       },
 
       {
@@ -68,6 +82,7 @@ const generateREADME = (answers) =>
 * [Description](#Description)
 * [Installation](#Installation)
 * [Usage Information](#Usage-Information)
+* [License](#License)
 * [Contribution Guidelines](#Contribution-Guidelines)
 * [Questions](#Questions)
 
@@ -75,10 +90,19 @@ const generateREADME = (answers) =>
 ${answers.description}
 
 ## Installation
+\`\`\`
 ${answers.installation}
+\`\`\`
 
 ## Usage Information
+\`\`\`
 ${answers.usage}
+\`\`\`
+
+## License
+\`\`\`
+${answers.license}
+\`\`\`
 
 ## Contribution Guidelines
 ${answers.contribution}
