@@ -62,7 +62,25 @@ const questions  = () => {
 const writeFileAsync = util.promisify(fs.writeFile);
 
 const generateREADME = (answers) =>
-  ``;
+`# ${answers.title}
+
+## Table of Contents
+
+## Description
+${answers.description}
+
+## Installation
+${answers.installation}
+
+## Usage Information
+${answers.usage}
+
+## Contribution Guidelines
+${answers.contribution}
+
+## Questions
+Github: https://github.com/${answers.github}  
+For additional questions email : ${answers.email}`;
 
 // TODO: Create a function to initialize app
 const init = () => {
