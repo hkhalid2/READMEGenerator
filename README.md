@@ -1,8 +1,18 @@
 # READMEGenerator
 
 ## Description
+The main motivation for creating this project was to make the README writing process easier for developers. This app takes user input using the terminal and generates a formatted README using said input. 
+
+The main problems this app solves include:
+* Formatting a linked table of contents 
+* Adding badges/notices depending on the license 
+* Linking ones Github/email 
+* Adding description, installation instructions, usage information, contribution guidelines and test instructions
+
+Overall this project taught me specifically how to install packages using node.js, use inquirer in order to obtain user inputted information and also how to format various characteristics using MD. 
 
 ## Installation
+Node was required to be installed as well as inquirer.
 ``node install -y
   node install inquirer``
 
