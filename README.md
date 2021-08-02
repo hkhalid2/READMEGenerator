@@ -23,9 +23,9 @@ MIT License
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Demo/Screenshots
+## Screenshots
 ### Demo Video
-![](Generator_demo.mp4)
+![](Generator_demo.mp4) See attached file Generator_demo.mp4
 ### Terminal invocation
 ![](console.png)
 ### Outputted README
