@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-# Te;lfja;
+# Test 
 
 ## Table of Contents
 * [Description](#Description)
@@ -10,16 +10,16 @@
 * [Questions](#Questions)
 
 ## Description
-fl;asjf
+some description
 
 ## Installation
 ```
-df;lajf
+npm install -y
 ```
 
 ## Usage Information
 ```
-asljf;
+usage as such
 ```
 
 ## License
@@ -34,8 +34,8 @@ Copyright 2021 Hamza Khalid
 ```
 
 ## Contribution Guidelines
-lsjfas
+guidelines as follow
 
 ## Questions
-Github: https://github.com/as;fjas  
-For additional questions email : sd;lfja
+Github: https://github.com/hkhalid2  
+For additional questions email : hkhalid2@gmu.edu
