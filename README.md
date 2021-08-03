@@ -35,7 +35,7 @@ MIT License
 
 ## Screenshots
 ### Demo Video
-![](Generator_demo.mp4) See attached file Generator_demo.mp4
+![](https://drive.google.com/file/d/1bFUIhURvUSt74nuWU2Ol7NS8BVP1QIog/view?usp=sharing)
 ### Terminal invocation
 ![](console.png)
 ### Outputted README
