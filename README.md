@@ -36,6 +36,7 @@ MIT License
 ## Screenshots
 ### Demo Video
 https://drive.google.com/file/d/1bFUIhURvUSt74nuWU2Ol7NS8BVP1QIog/view?usp=sharing
+Also attached in repository
 ### Terminal invocation
 ![](console.png)
 ### Outputted README
